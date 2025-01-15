@@ -1,0 +1,5 @@
+[project]
+name = "excalidraw-architect-mcp"
+version = "0.1.0"
+description = "Turn your architecture into a living, queryable knowledge graph - and render it as beautiful auto-laid-out Excalidraw diagrams. An MCP server for Cursor, Claude Code & Windsurf. Offline, no API keys."
+requires-python = ">=3.10"
